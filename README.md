@@ -10,7 +10,7 @@ Due to some constraints in FileMaker, they are preloaded with reference numbers.
 # To Install
 To implement these headers into a solution you will need these items in the below order:
 
-1. Import Custom functions to the interface file:
+1. Import Custom functions:
 	"#"
 	"#Get"
 
