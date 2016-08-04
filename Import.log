@@ -1,0 +1,21 @@
+﻿Timestamp	Filename	Error	Message
+2016-08-04 14:57:36.766 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import of script steps from clipboard started
+2016-08-04 14:57:36.770 -0700	Set Globals Sort Field::10::Set Variable	106	Table referred to in the calculation “If (  $$SORT.TOSORT = _DASHBOARD::gSortFieldName and _DASHBOARD::gSortDirection = "asc" ; "desc" ; "asc" )” is missing.
+2016-08-04 14:57:36.771 -0700	Set Globals Sort Field::13::Set Field	102	Field “gSortDirection” missing.
+2016-08-04 14:57:36.771 -0700	Set Globals Sort Field::14::Set Field	102	Field “gSortFieldName” missing.
+2016-08-04 14:57:36.772 -0700	Set Globals Sort Field::27::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 14:57:36.773 -0700	Set Globals Sort Field::27::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 14:57:36.773 -0700	Set Globals Sort Field::30::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 14:57:36.773 -0700	Set Globals Sort Field::30::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 14:57:36.774 -0700	Set Globals Sort Field	0	script steps imported : 33
+2016-08-04 14:57:36.774 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import completed
+2016-08-04 14:58:14.281 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import of script steps from clipboard started
+2016-08-04 14:58:14.288 -0700	Set Globals Sort Field	0	script steps imported : 3
+2016-08-04 14:58:14.289 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import completed
+2016-08-04 14:58:33.065 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import of script steps from clipboard started
+2016-08-04 14:58:33.068 -0700	Set Globals Sort Field::27::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 14:58:33.068 -0700	Set Globals Sort Field::27::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 14:58:33.068 -0700	Set Globals Sort Field::30::Sort Records	102	Field “sorter_asc” missing.
+2016-08-04 14:58:33.068 -0700	Set Globals Sort Field::30::Sort Records	102	Field “sorter_desc” missing.
+2016-08-04 14:58:33.069 -0700	Set Globals Sort Field	0	script steps imported : 11
+2016-08-04 14:58:33.069 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import completed
