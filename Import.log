@@ -19,3 +19,14 @@
 2016-08-04 14:58:33.068 -0700	Set Globals Sort Field::30::Sort Records	102	Field “sorter_desc” missing.
 2016-08-04 14:58:33.069 -0700	Set Globals Sort Field	0	script steps imported : 11
 2016-08-04 14:58:33.069 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import completed
+2016-08-04 17:19:43.662 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import of script steps from clipboard started
+2016-08-04 17:19:43.664 -0700	Set Globals Sort Field::28::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.664 -0700	Set Globals Sort Field::28::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.664 -0700	Set Globals Sort Field::31::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.665 -0700	Set Globals Sort Field::31::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.666 -0700	Set Globals Sort Field::37::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.666 -0700	Set Globals Sort Field::37::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.666 -0700	Set Globals Sort Field::40::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.666 -0700	Set Globals Sort Field::40::Sort Records	102	Field “<unknown>” missing.
+2016-08-04 17:19:43.668 -0700	Set Globals Sort Field	0	script steps imported : 30
+2016-08-04 17:19:43.669 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import completed
