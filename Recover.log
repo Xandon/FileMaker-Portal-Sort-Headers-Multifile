@@ -1,0 +1,5 @@
+﻿Timestamp	Filename	Error	Message
+2016-08-23 15:50:16.542 -0700	Portal Sort Header MultiFile1 Interface.fmp12	0	*** Started consistency check, total of 213 block(s) to check
+2016-08-23 15:50:16.542 -0700	Portal Sort Header MultiFile1 Interface.fmp12	0	*** Completed consistency check, checked 213 block(s)
+2016-08-23 15:50:50.530 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	*** Started consistency check, total of 783 block(s) to check
+2016-08-23 15:50:50.542 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	*** Completed consistency check, checked 783 block(s)

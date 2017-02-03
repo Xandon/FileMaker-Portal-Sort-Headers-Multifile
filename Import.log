@@ -39,3 +39,9 @@
 2016-08-23 10:38:01.064 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import of script steps from clipboard started
 2016-08-23 10:38:01.068 -0700	Set Globals Sort Field	0	script steps imported : 9
 2016-08-23 10:38:01.068 -0700	Portal Sort MultiFile1 Interface.fmp12	0	Import completed
+2016-09-01 08:57:16.825 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	Import operations started
+2016-09-01 08:57:16.826 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	Import of fields from clipboard started
+2016-09-01 08:57:16.830 -0700	invoices	0	fields imported : 2
+2016-09-01 08:57:16.830 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	Import completed
+2016-09-01 08:58:43.073 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	Import operations canceled
+2016-09-01 08:58:43.074 -0700	Portal Sort Header MultiFile2 Data.fmp12	0	==================================================================
