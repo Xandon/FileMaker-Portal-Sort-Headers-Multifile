@@ -13,8 +13,8 @@ To implement these headers into a solution you will need these items in the belo
 To implement these headers into a solution you will need these items in the below order:
 
 1. Import Custom functions to the interface file:
-	#
-	#Get
+	"#"
+	"#Get"
 
 2. Copy the global fields into a common preferences table of the data file:
 	gSortDirection
